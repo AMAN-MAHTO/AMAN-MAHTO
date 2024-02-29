@@ -46,6 +46,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AMAN-MAHTO/AMAN-MAHTO/output/snake.svg" alt="Snake animation" />
 
 ###
