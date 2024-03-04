@@ -1,4 +1,3 @@
-<h2 align="left">HI, I'm Aman👋. I'm a college student👨‍🎓 and I'm currently pursuing B.Tech CSE degree🖥️ in the GGSIPU</h2>
 
 ###
 
