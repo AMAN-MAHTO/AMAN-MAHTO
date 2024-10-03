@@ -53,7 +53,7 @@
   </a>
 </div>
 
-![Pink And Green Motivation Quote LinkedIn Banner (3)](https://github.com/user-attachments/assets/6984514a-ebe7-48ac-a712-3a942267584b)
+
 
 
 <br clear="both">
